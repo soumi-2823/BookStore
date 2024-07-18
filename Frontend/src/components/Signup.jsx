@@ -51,7 +51,7 @@ function Signup() {
              <br />
               {errors.name && (
                 <span className="text-sm text-red-500">
-                  This field is required
+                  This field is required 
                 </span>
               )}
           </div>
